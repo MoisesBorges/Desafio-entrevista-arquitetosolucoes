@@ -21,16 +21,16 @@ A solução foi estruturada com base em microsserviços para proporcionar desaco
 
 ## Requisitos Funcionais
   
--RF01: Registrar lançamentos com data, valor, tipo e descrição
--RF02: Validar dados obrigatórios e tipos permitidos
--RF03: Consultar lançamentos por data ou intervalo
--RF04: Calcular saldo diário com base nos lançamentos
--RF05: Expor saldo consolidado via API
--RF06: Autenticar usuários via JWT
--RF07: Autorizar ações com base em perfis
--RF08: Registrar logs de acesso e ações sensíveis
--RF09: Expor métricas de uso e performance
--RF10: Gerar alertas em caso de falhas
+- RF01: Registrar lançamentos com data, valor, tipo e descrição
+- RF02: Validar dados obrigatórios e tipos permitidos
+- RF03: Consultar lançamentos por data ou intervalo
+- RF04: Calcular saldo diário com base nos lançamentos
+- RF05: Expor saldo consolidado via API
+- RF06: Autenticar usuários via JWT
+- RF07: Autorizar ações com base em perfis
+- RF08: Registrar logs de acesso e ações sensíveis
+- RF09: Expor métricas de uso e performance
+- RF10: Gerar alertas em caso de falhas
 
 ## Requisitos Não Funcionais
 
