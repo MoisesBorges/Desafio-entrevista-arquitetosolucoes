@@ -100,3 +100,13 @@ Mostra como os serviços escalam horizontalmente em Kubernetes.
 | Observabilidade | Prometheus / Grafana | Monitoramento de métricas             |
 | Logs            | ELK Stack           | Centralização de registros e auditoria |
 | Containerização | Docker + Compose    | Orquestração e empacotamento           |
+
+Melhorias Futuras
+
+- Implementação de pipelines CI/CD para automação de deploys.
+- Integração com ferramentas de Business Intelligence (BI) para relatórios avançados.
+- Implementação de autenticação OAuth2/JWT para reforço da segurança.
+- Adoção de Infraestrutura como Código (IaC) utilizando Terraform.
+- Planejamento de arquitetura de transição para migração de sistemas legados.
+
+Moisés Borges
