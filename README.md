@@ -1,6 +1,3 @@
-## Desafio-entrevista-arquitetosolucoes
-## Projeto de arquitetura escalável com monitoramento e observabilidade
-
 ## Sistema de Controle de Lançamentos e Consolidação Diária
 
 ## Descrição do Projeto
