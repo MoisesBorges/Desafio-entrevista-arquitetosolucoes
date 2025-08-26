@@ -101,7 +101,7 @@ Mostra como os serviços escalam horizontalmente em Kubernetes.
 | Logs            | ELK Stack           | Centralização de registros e auditoria |
 | Containerização | Docker + Compose    | Orquestração e empacotamento           |
 
-Melhorias Futuras
+## Melhorias Futuras
 
 - Implementação de pipelines CI/CD para automação de deploys.
 - Integração com ferramentas de Business Intelligence (BI) para relatórios avançados.
